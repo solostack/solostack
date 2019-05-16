@@ -1,0 +1,2 @@
+# solostack
+SoloStack GeoIP Database
