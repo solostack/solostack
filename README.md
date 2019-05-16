@@ -35,6 +35,8 @@ Purchasing our MaxMind SoloStack database, includes five (5) years of sequential
 
 Within of 48 hours of purchase, you'll receive an e-mail with further download instructions.
 
+[![paypal](https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZCZXXGKM2Y5PA)
+
 ## Getting Involved
 
 If you want to contribute, please read [CONTRIBUTING.md](CONTRIBUTING.md) and
